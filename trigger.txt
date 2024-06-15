@@ -1,1 +1,1 @@
-lanraragi_cn registry.cn-hangzhou.aliyuncs.com/dokcerimage/lanraragi_cn
+windycloud/lanraragi_cn registry.cn-hangzhou.aliyuncs.com/dokcerimage/windycloud/lanraragi_cn
